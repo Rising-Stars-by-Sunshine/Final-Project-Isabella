@@ -1,4 +1,4 @@
-# Title [How to Choice a Good Title?](https://www.nature.com/articles/s41562-021-01152-2)
+# Predicting Emigration from Latin America and the Caribbean due to Climate Change
 ## Project information
 - **Author**: Isabella Kroon, Computation and Design, Class of 2025, Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
