@@ -16,7 +16,7 @@ Figure 2 shows the number of people affected by tropical storms, hurricanes, and
   
  *Jargon: Agent-based models are simulations used to study interactions between people, places, things, and time. Agents are assigned specific qualities to interact with other agents in specific ways. ABMs are good for understanding complex relationships involving multiple influences. ABMs are best for cases when interrelatedness, reciprocity, and feedback loops are believed to exist (“Agent-Based Modeling | Columbia Public Health,” n.d.).*
  
-  - [Results]
+  - **Results:** We expect our results to find a relationship between climate change and emigration. We expect this relationship to be positive, meaning we expect that climate change increases the rate of emigration from Latin American and Caribbean countries
   - [Intellectual Merits and Practical impacts of your project.]
 
 ## Table of Contents
