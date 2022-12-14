@@ -65,9 +65,9 @@ Isabella Kroon is a sophomore student at Duke Kunshan University, majoring in Co
 Through this project I learned a lot about how we can apply machine learning to social issues. For example, it would never be possible to conduct an actual study about how climate change impacts emigration, because there are too many uncontrollable variables. Machine learning allows us to study important questions that could otherwise not be studied. However, I also learned about its limitations. There is not enough data available to understand my specific research question. In this case, machine learning cannot help us to better understand such a small amount of available data.
 
 
-### Literature
+### References
 
-“Agent-Based Modeling | Columbia Public Health.” n.d. Www.publichealth.columbia.edu. Columbia University. [https://www.publichealth.columbia.edu/research/population-health-methods/agent-based-modeling](https://www.publichealth.columbia.edu/research/population-health-methods/agent-based-modeling).
+“Agent-Based Modeling" n.d. Www.publichealth.columbia.edu. Columbia Public Health. [https://www.publichealth.columbia.edu/research/population-health-methods/agent-based-modeling](https://www.publichealth.columbia.edu/research/population-health-methods/agent-based-modeling).
 
 Entwisle, Barbara, Nathalie E. Williams, Ashton M. Verdery, Ronald R. Rindfuss, Stephen J. Walsh, George P. Malanson, Peter J. Mucha, et al. 2016. “Climate Shocks and Migration: An Agent-Based Modeling Approach.” Population and Environment 38 (1): 47–71. [https://doi.org/10.1007/s11111-016-0254-y](https://doi.org/10.1007/s11111-016-0254-y).
 
