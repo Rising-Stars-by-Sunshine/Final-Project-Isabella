@@ -66,14 +66,14 @@ Figure 2 represents the time-series data of the number of emigrantsfrom Latin Am
 ![Figure 3 - Prediction Product](spotlight/figures/linear_regression.jpg)
 **Figure No. 3** Prediction Product (created by [Scikit-learn](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html))
 
-Figure 3 represents the 
+Figure 3 represents the regression histogram for a linear regression model for the simple moving average of emigration. The blue bars represent the actual values from the dataset, and the green bars represent the predicted values. This histogram helps us to understand the accuracy of our model for the data set. We can see there is an issue with applying a linear regression model to this dataset.
 
 ## More about the Author
 <img src="spotlight/figures/MyPhoto.jpg" width="400" />
 
 Isabella Kroon is a sophomore student at Duke Kunshan University, majoring in Computation and Design with a track in Social Policy and an Environmental Sustainability concentration. She is interested in how statistics and computation can be used to understand environmental issues and better inform environmental policy.
 
-Final reflections 
+#Final reflections 
 
 Through this project I learned a lot about how we can apply machine learning to social issues. For example, it would never be possible to conduct an actual study about how climate change impacts emigration, because there are too many uncontrollable variables. Machine learning allows us to study important questions that could otherwise not be studied. However, I also learned about its limitations. There is not enough data available to understand my specific research question. In this case, machine learning cannot help us to better understand such a small amount of available data.
 
