@@ -13,12 +13,11 @@
   - **Research Question:** How does change in yearly temperature (x) influence emigration from Latin America and the Caribbean (y)?
   - **Application Scenario (Data Source):** The data will be sourced from [OurWorldInData.org](https://ourworldindata.org/migration) to project emigration from Latin America and the Caribbean. 
   
-The following figure helps us to better understand emigration in this area:
+The following figure helps us to better understand the impact of climate shocks in this area:
  
- ![Figure 1](spotlight/figures/migration.png)
  ![Figure 1](spotlight/figures/mapLA.webp)
  
-  This figure shows emigration from Latin America and the Caribbean, in millions of people, from 1990-2020. The figure shows that emigration from Latin America and the Caribbean has doubled since 1990 (Ortiz-Ospina et al).
+  This figure shows the number of people affected by tropical storms, hurricanes, and floods from 1970-2011 (Kaenzig et al).
 
   - **Methodology:** We will use an agent-based model from a study of migration in Thailand that incorporates the various factors that influence migration, such as population growth and economic instability, as well as demographic and land use data (Entwisle et al). Then we will subject this model to various long-term weather conditions and climate shocks, and model the subsequent changes in migration. By keeping all other factors constant, we can control for other influential variables and find the effect of climate change.
   
