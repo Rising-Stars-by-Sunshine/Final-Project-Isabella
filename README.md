@@ -63,7 +63,7 @@ Figure No.1 shows the six aspects of the research summary: Background & Motivati
 
 Figure 2 represents the time-series data of the number of emigrantsfrom Latin America and the Caribbean. The x-axis shows the years from 1990 to 2020, and the y-axis shows the number of emigrants in millions of people. We can see a generally positive and linear relationship between time and emigration.
 
-![Figure 3 - Prediction Product](spotlight/figures/linear regression.jpg)
+![Figure 3 - Prediction Product](spotlight/figures/linear_regression.jpg)
 **Figure No. 3** Prediction Product (created by [Scikit-learn](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html))
 
 Figure 3 represents the 
