@@ -13,11 +13,12 @@
   - **Research Question:** How does change in yearly temperature (x) influence emigration from Latin America and the Caribbean (y)?
   - **Application Scenario (Data Source):** The data will be sourced from [OurWorldInData.org](https://ourworldindata.org/migration) to project emigration from Latin America and the Caribbean. 
   
-The following figures help us to better understand emigration in this area:
-  **FIGURES!!**
-  Figure 1 shows emigration from Latin America and the Caribbean, in millions of people, from 1990-2020. The figure shows that emigration from Latin America and the Caribbean has doubled since 1990 (Ortiz-Ospina et al).
+The following figure helps us to better understand emigration in this area:
+ 
+ <img src="spotlight/figures/migration.png" width="250" />
+ 
+  This figure shows emigration from Latin America and the Caribbean, in millions of people, from 1990-2020. The figure shows that emigration from Latin America and the Caribbean has doubled since 1990 (Ortiz-Ospina et al).
 
-Figure 2 shows the number of people affected by tropical storms, hurricanes, and floods from 1970-2011 (Kaenzig et al).
   - **Methodology:** We will use an agent-based model from a study of migration in Thailand that incorporates the various factors that influence migration, such as population growth and economic instability, as well as demographic and land use data (Entwisle et al). Then we will subject this model to various long-term weather conditions and climate shocks, and model the subsequent changes in migration. By keeping all other factors constant, we can control for other influential variables and find the effect of climate change.
   
  Jargon: Agent-based models are simulations used to study interactions between people, places, things, and time. Agents are assigned specific qualities to interact with other agents in specific ways. ABMs are good for understanding complex relationships involving multiple influences. ABMs are best for cases when interrelatedness, reciprocity, and feedback loops are believed to exist (“Agent-Based Modeling | Columbia Public Health,” n.d.).
