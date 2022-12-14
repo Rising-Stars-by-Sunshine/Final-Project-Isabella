@@ -69,29 +69,19 @@ Isabella Kroon is a sophomore student at Duke Kunshan University, majoring in Co
 
 [how to apply a various machine learning methods to solve social science issues?]
 
-## References
 
-### Data Source
-- Data Source Title and URL
-### Code Source
-- Code Source Title and URL
-### Articles
-- Article Source Title and URL
 ### Literature
+
 - Literature References in [Chicago Author-Date](https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html) Style and [BibTex](https://scholar.google.com/) 
 
-Levin, Dan, and Luyao Zhang. 2020. “Bridging Level-K to Nash Equilibrium.” *The Review of Economics and Statistics* 104 (6): 1329–40. https://doi.org/10.1162/rest_a_00990.
+“Agent-Based Modeling | Columbia Public Health.” n.d. Www.publichealth.columbia.edu. Columbia University. [https://www.publichealth.columbia.edu/research/population-health-methods/agent-based-modeling](https://www.publichealth.columbia.edu/research/population-health-methods/agent-based-modeling).
 
-```
-@article{levin2022bridging,
-  title={Bridging level-k to nash equilibrium},
-  author={Levin, Dan and Zhang, Luyao},
-  journal={Review of Economics and Statistics},
-  volume={104},
-  number={6},
-  pages={1329--1340},
-  year={2022},
-  publisher={MIT Press One Rogers Street, Cambridge, MA 02142-1209, USA journals-info~…}
-}
-```
+Entwisle, Barbara, Nathalie E. Williams, Ashton M. Verdery, Ronald R. Rindfuss, Stephen J. Walsh, George P. Malanson, Peter J. Mucha, et al. 2016. “Climate Shocks and Migration: An Agent-Based Modeling Approach.” Population and Environment 38 (1): 47–71. [https://doi.org/10.1007/s11111-016-0254-y](https://doi.org/10.1007/s11111-016-0254-y).
 
+Hsiang, Solomon M., and Adam H. Sobel. 2016. “Potentially Extreme Population Displacement and Concentration in the Tropics under Non-Extreme Warming.” Scientific Reports 6 (1): 25697. [https://doi.org/10.1038/srep25697](https://doi.org/10.1038/srep25697).
+
+Kaenzig, Raoul, and Etienne Piguet. 2013. “Migration and Climate Change in Latin America and the Caribbean.” People on the Move in a Changing Climate 2 (August): 155–76. [https://doi.org/10.1007/978-94-007-6985-4_7](https://doi.org/10.1007/978-94-007-6985-4_7).
+
+Ortiz-Ospina, Esteban, Max Roser, Hannah Ritchie, Fiona Spooner, and Marcel Gerber. 2022. “Migration.” Our World in Data, November. [https://ourworldindata.org/migration](https://ourworldindata.org/migration).
+
+Rigaud, Kanta Kumari, Alex de Sherbinin, Bryan Jones, Jonas Bergmann, Viviane Clement, Kayly Ober, Jacob Schewe, et al. 2018. “Groundswell: Preparing for Internal Climate Migration.” WorldBank.org. Washington, DC: World Bank. [https://doi.org/http://hdl.handle.net/10986/29461](https://doi.org/http://hdl.handle.net/10986/29461).
