@@ -73,7 +73,7 @@ Figure 3 represents the regression histogram for a linear regression model for t
 
 Isabella Kroon is a sophomore student at Duke Kunshan University, majoring in Computation and Design with a track in Social Policy and an Environmental Sustainability concentration. She is interested in how statistics and computation can be used to understand environmental issues and better inform environmental policy.
 
-#Final reflections 
+**Final reflections**
 
 Through this project I learned a lot about how we can apply machine learning to social issues. For example, it would never be possible to conduct an actual study about how climate change impacts emigration, because there are too many uncontrollable variables. Machine learning allows us to study important questions that could otherwise not be studied. However, I also learned about its limitations. There is not enough data available to understand my specific research question. In this case, machine learning cannot help us to better understand such a small amount of available data.
 
