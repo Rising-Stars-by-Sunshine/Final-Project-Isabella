@@ -50,7 +50,7 @@ The following figure helps us to better understand emigration in this area:
 |Query Data| [Link](code/Explanation/Explanation_Query_Data.ipynb)|
 |Process Data|[Link](code/Prediction/Prediction_Process_Data_Prepare_X_and_Y_for_Classification_and_Regressions.ipynb)|
 |Analyze Data for Explanation|[Link](code/Explanation/Explanation_Analyze_Data.ipynb)|
-|Analyze Data for Prediction|[Link]()|
+|Analyze Data for Prediction|[Link](code/Prediction/Prediction_Analyze_Data_Machine_Learning.ipynb)|
 
 ## Spotlight
 ![Figure 1 - Research Poster](spotlight/figures/1.png)
