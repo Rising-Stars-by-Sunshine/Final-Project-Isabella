@@ -6,7 +6,7 @@
 
 **Disclaimer**: Submitted to the Final Project for [STATS201 Introduction to Machine Learning for Social Science, 2022 Autumn Term (Seven Week - Second)](https://ms.pubpub.org/) instructed by Prof. Luyao Zhang at Duke Kunshan University.
 
-**Acknowledgments**: My sincerest thanks to Professor Luyao Zhang for her teachings in Machine Learning for Social Science, to Yutong Sun for her valuable advise as peer reviewer, and to [Whimsical](https://whimsical.com), [Plotly](https://plotly.com/python/), [Canva](https://www.canva.com/), and [BibTex](https://scholar.google.com/).
+**Acknowledgments**: My sincerest thanks to Professor Luyao Zhang for her teachings in Machine Learning for Social Science, to Yutong Sun for her valuable advise as peer reviewer, and to [Whimsical](https://whimsical.com), [Plotly](https://plotly.com/python/), [Canva](https://www.canva.com/), [Scikit-learn](https://scikit-learn.org/stable/index.html), and [BibTex](https://scholar.google.com/).
 
 **Project Summary**: 
   - **Background & Motivation:** According to the World Bank, Latin America, Sub-Saharan Africa, and Southeast Asia will produce 143 million climate migrants by 2050 (Rigaud et al). However, climate change is currently not recognized as a reason to grant refugee status. It is important to understand the effects of climate change on migration to advocate for the millions of people who will be displaced in the coming years.
@@ -61,7 +61,8 @@ Figure No.1 shows the six aspects of the research summary: Background & Motivati
 ![Figure 2 - Explanation Product](spotlight/figures/newplot.png)
 **Figure No. 2** Explanation Product (created by [Plotly](https://plotly.com/python/) using data from [Our World In Data](https://ourworldindata.org/migration))
 
-![Figure 3 - Prediction Product]()
+![Figure 3 - Prediction Product](spotlight/figures/linear regression.jpg)
+**Figure No. 3** Prediction Product (created by [Scikit-learn](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html))
 
 ## More about the Author
 <img src="spotlight/figures/MyPhoto.jpg" width="400" />
