@@ -15,7 +15,7 @@
   
 The following figure helps us to better understand emigration in this area:
  
- <img src="spotlight/figures/migration.png" width="400" />
+ ![Figure 1](spotlight/figures/migration.png)
  
   This figure shows emigration from Latin America and the Caribbean, in millions of people, from 1990-2020. The figure shows that emigration from Latin America and the Caribbean has doubled since 1990 (Ortiz-Ospina et al).
 
@@ -59,7 +59,7 @@ The following figure helps us to better understand emigration in this area:
 - Media appearance
 
 ## More about the Author
-[headshot]:spotlight/figures/MyPhoto.jpg
+<img src="spotlight/figures/MyPhoto.jpg" width="400" />
 
 Isabella Kroon is a sophomore student at Duke Kunshan University, majoring in Computation and Design with a track in Social Policy and an Environmental Sustainability concentration. She is interested in how statistics and computation can be used to understand environmental issues and better inform environmental policy.
 
