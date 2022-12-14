@@ -38,15 +38,17 @@ The following figure helps us to better understand emigration in this area:
 
 
 ## Data
-|Data Source: [Our World In Data](https://ourworldindata.org/migration)|
+|Data Source:| [Our World In Data](https://ourworldindata.org/migration)|
 |------|-----|
 |Queried Data|[Link](data/Queried_Data/migration.csv)|
 |Processed Data|[Link](data/Processed_Data/Processed_Data.csv)|
 
 
 ## Code
-- Query Data
-- Process Data
+|Code|Link|
+|---|---|
+|Query Data| The data was queried through .csv file manipulation in Excel|
+|Process Data|[Link](
 - Analyze Data
 - ...
 
