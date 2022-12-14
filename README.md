@@ -1,6 +1,6 @@
 # Predicting Emigration from Latin America and the Caribbean due to Climate Change
 ## Project information
-**Author**: Isabella Kroon, Computation and Design, Class of 2025, Duke Kunshan University
+**Author**: Isabella Kroon, Computation and Design (Social Policy), Class of 2025, Duke Kunshan University
 
 **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
 
@@ -15,13 +15,13 @@
   
 The following figure helps us to better understand emigration in this area:
  
- <img src="spotlight/figures/migration.png" width="250" />
+ <img src="spotlight/figures/migration.png" width="400" />
  
   This figure shows emigration from Latin America and the Caribbean, in millions of people, from 1990-2020. The figure shows that emigration from Latin America and the Caribbean has doubled since 1990 (Ortiz-Ospina et al).
 
   - **Methodology:** We will use an agent-based model from a study of migration in Thailand that incorporates the various factors that influence migration, such as population growth and economic instability, as well as demographic and land use data (Entwisle et al). Then we will subject this model to various long-term weather conditions and climate shocks, and model the subsequent changes in migration. By keeping all other factors constant, we can control for other influential variables and find the effect of climate change.
   
- Jargon: Agent-based models are simulations used to study interactions between people, places, things, and time. Agents are assigned specific qualities to interact with other agents in specific ways. ABMs are good for understanding complex relationships involving multiple influences. ABMs are best for cases when interrelatedness, reciprocity, and feedback loops are believed to exist (“Agent-Based Modeling | Columbia Public Health,” n.d.).
+*Jargon: Agent-based models are simulations used to study interactions between people, places, things, and time. Agents are assigned specific qualities to interact with other agents in specific ways. ABMs are good for understanding complex relationships involving multiple influences. ABMs are best for cases when interrelatedness, reciprocity, and feedback loops are believed to exist (“Agent-Based Modeling | Columbia Public Health,” n.d.).*
  
   - **Results:** We expect our results to find a relationship between climate change and emigration. We expect this relationship to be positive, meaning we expect that climate change increases the rate of emigration from Latin American and Caribbean countries
   - **Intellectual Merits and Practical Impacts:** We identify three areas for contribution. First, Rigaud et al (2018) used machine learning to model climate migration. However, this study focused on Central America and used Mexico as a case study. We plan to focus on Latin America and the Caribbean in its entirety for a more comprehensive understanding of climate change. Second, Entwisle et al (2016) used the agent-based model that incorporated demographic and land use data. This study modeled climate migration in Thailand, so we will verify the model's efficacy by applying it to a new case study. Furthermore, we will apply new, relevant agents to Latin America's situation. Finally, Kaenzig et al (2014) discussed the current understanding of climate change in Latin America. The paper found that this area is "highly at risk yet very little studied." This finding further makes the case for our study to close gaps in existing knowledge.
@@ -38,10 +38,10 @@ The following figure helps us to better understand emigration in this area:
 
 
 ## Data
-- Data Source:
-- Queried Data
-- Processed Data
-- ...
+|Data Source|[Our World In Data](https://ourworldindata.org/migration)|
+|------|-----|
+|Queried Data|Link|
+|Processed Data|Link|
 
 
 ## Code
