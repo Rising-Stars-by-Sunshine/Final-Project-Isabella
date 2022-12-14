@@ -38,9 +38,9 @@ The following figure helps us to better understand emigration in this area:
 
 
 ## Data
-|Data Source|[Our World In Data](https://ourworldindata.org/migration)|
+|Data Source: [Our World In Data](https://ourworldindata.org/migration)|
 |------|-----|
-|Queried Data|Link|
+|Queried Data|[Link](data/Queried_Data/migration.csv)|
 |Processed Data|Link|
 
 
