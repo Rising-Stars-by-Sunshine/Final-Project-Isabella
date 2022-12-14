@@ -39,7 +39,7 @@ The following figure helps us to better understand emigration in this area:
 
 ## Data
 |Data Source:| [Our World In Data](https://ourworldindata.org/migration)|
-|------|-----|
+|------|------|
 |Queried Data|[Link](data/Queried_Data/Queried_data.csv)|
 |Processed Data|[Link](https://github.com/Rising-Stars-by-Sunshine/Final-Project-Isabella/tree/main/data/Processed_Data)|
 
@@ -47,13 +47,13 @@ The following figure helps us to better understand emigration in this area:
 ## Code
 |Code|Link|
 |---|---|
-|Query Data| [Link](code/Explanation/Explanation_Query_Data.ipynb)|
+|Query Data|[Link](code/Explanation/Explanation_Query_Data.ipynb)|
 |Process Data|[Link](code/Prediction/Prediction_Process_Data_Prepare_X_and_Y_for_Classification_and_Regressions.ipynb)|
 |Analyze Data for Explanation|[Link](code/Explanation/Explanation_Analyze_Data.ipynb)|
 |Analyze Data for Prediction|[Link](code/Prediction/Prediction_Analyze_Data_Machine_Learning.ipynb)|
 
 ## Spotlight
-![Figure 1 - Research Poster](spotlight/figures/1.png)
+![Figure 1 - Research Poster](spotlight/figures/Predicting_Emigration.png)
 **Figure No. 1** Research Poster (created by [Canva](https://www.canva.com/design/DAFUBazg8TM/SSeNp4SkAErsq6SzPxraUg/view?utm_content=DAFUBazg8TM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink))
 
 Figure No.1 shows the six aspects of the research summary: Background & Motivation, Research Question, Application Scenario, Methodology, Results, and Intellectual Merits and Practical Impacts.
