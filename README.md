@@ -56,7 +56,10 @@ The following figure helps us to better understand emigration in this area:
 **Figure No. 1** Research Poster (created by [Canva](https://www.canva.com/design/DAFUBazg8TM/SSeNp4SkAErsq6SzPxraUg/view?utm_content=DAFUBazg8TM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink))
 
 Figure No.1 shows the six aspects of the research summary: Background & Motivation, Research Question, Application Scenario, Methodology, Results, and Intellectual Merits and Practical Impacts.
-![Figure 2 - Explanation Product]()
+
+![Figure 2 - Explanation Product](spotlight/figures/newplot.png)
+**Figure No. 2** Explanation Product (created by [Plotly](https://plotly.com/python/))
+
 ![Figure 3 - Prediction Product]()
 
 ## More about the Author
