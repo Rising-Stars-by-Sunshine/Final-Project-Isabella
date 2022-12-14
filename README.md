@@ -51,7 +51,7 @@ The following figure helps us to better understand emigration in this area:
 - ...
 
 ## Spotlight
-- Posters
+![Research Proposal Poster](spotlight/figures/1.png)
 - Figures
 - Slides
 - Presentations
