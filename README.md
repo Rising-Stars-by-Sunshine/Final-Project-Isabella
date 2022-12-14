@@ -6,7 +6,7 @@
 
 **Disclaimer**: Submitted to the Final Project for [STATS201 Introduction to Machine Learning for Social Science, 2022 Autumn Term (Seven Week - Second)](https://ms.pubpub.org/) instructed by Prof. Luyao Zhang at Duke Kunshan University.
 
-**Acknowledgments**: My sincerest thanks to Professor Luyao Zhang for her teachings in Machine Learning for Social Science, to Yutong Sun for her valuable advise as peer reviewer, and to [Whimsical](https://whimsical.com), [Plotly](https://plotly.com/python/), and [Canva](https://www.canva.com/).
+**Acknowledgments**: My sincerest thanks to Professor Luyao Zhang for her teachings in Machine Learning for Social Science, to Yutong Sun for her valuable advise as peer reviewer, and to [Whimsical](https://whimsical.com), [Plotly](https://plotly.com/python/), [Canva](https://www.canva.com/), and [BibTex](https://scholar.google.com/).
 
 **Project Summary**: 
   - **Background & Motivation:** According to the World Bank, Latin America, Sub-Saharan Africa, and Southeast Asia will produce 143 million climate migrants by 2050 (Rigaud et al). However, climate change is currently not recognized as a reason to grant refugee status. It is important to understand the effects of climate change on migration to advocate for the millions of people who will be displaced in the coming years.
@@ -48,17 +48,13 @@ The following figure helps us to better understand emigration in this area:
 |Code|Link|
 |---|---|
 |Query Data| The data was queried through .csv file manipulation in Excel|
-|Process Data|[Link](
-- Analyze Data
-- ...
+|Process Data|[Link](code/Copy_of_Isabella_Process_Data_Prepare_X_and_Y_for_Classification_and_Regressions.ipynb)|
+|Analyze Data|[Link](code/Copy_of_Isabella_Analyze_Data_Machine_Learning.ipynb)|
 
 ## Spotlight
 ![Research Proposal Poster](spotlight/figures/1.png)
-- Figures
-- Slides
-- Presentations
-- Review articles
-- Media appearance
+![Figure 1 - Explanation Product]()
+![Figure 2 - Prediction Product]()
 
 ## More about the Author
 <img src="spotlight/figures/MyPhoto.jpg" width="400" />
@@ -66,13 +62,10 @@ The following figure helps us to better understand emigration in this area:
 Isabella Kroon is a sophomore student at Duke Kunshan University, majoring in Computation and Design with a track in Social Policy and an Environmental Sustainability concentration. She is interested in how statistics and computation can be used to understand environmental issues and better inform environmental policy.
 
 - Final reflections 
-
-[how to apply a various machine learning methods to solve social science issues?]
+Through this project I learned a lot about how we can apply machine learning to social issues. For example, it would never be possible to conduct an actual study about how climate change impacts emigration, because there are too many uncontrollable variables. Machine learning allows us to study important questions that could otherwise not be studied. However, I also learned about its limitations. There is not enough data available to understand my specific research question. In this case, machine learning cannot help us to better understand such a small amount of available data.
 
 
 ### Literature
-
-- Literature References in [Chicago Author-Date](https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html) Style and [BibTex](https://scholar.google.com/) 
 
 “Agent-Based Modeling | Columbia Public Health.” n.d. Www.publichealth.columbia.edu. Columbia University. [https://www.publichealth.columbia.edu/research/population-health-methods/agent-based-modeling](https://www.publichealth.columbia.edu/research/population-health-methods/agent-based-modeling).
 
