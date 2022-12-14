@@ -41,7 +41,7 @@ The following figure helps us to better understand emigration in this area:
 |Data Source: [Our World In Data](https://ourworldindata.org/migration)|
 |------|-----|
 |Queried Data|[Link](data/Queried_Data/migration.csv)|
-|Processed Data|Link|
+|Processed Data|[Link](data/Processed_Data/Processed_Data.csv)|
 
 
 ## Code
@@ -59,7 +59,7 @@ The following figure helps us to better understand emigration in this area:
 - Media appearance
 
 ## More about the Author
-- headshot
+[headshot]:spotlight/figures/MyPhoto.jpg
 
 Isabella Kroon is a sophomore student at Duke Kunshan University, majoring in Computation and Design with a track in Social Policy and an Environmental Sustainability concentration. She is interested in how statistics and computation can be used to understand environmental issues and better inform environmental policy.
 
