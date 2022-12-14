@@ -58,7 +58,7 @@ The following figure helps us to better understand emigration in this area:
 Figure No.1 shows the six aspects of the research summary: Background & Motivation, Research Question, Application Scenario, Methodology, Results, and Intellectual Merits and Practical Impacts.
 
 ![Figure 2 - Explanation Product](spotlight/figures/newplot.png)
-**Figure No. 2** Explanation Product (created by [Plotly](https://plotly.com/python/))
+**Figure No. 2** Explanation Product (created by [Plotly](https://plotly.com/python/) using data from [Our World In Data](https://ourworldindata.org/migration))
 
 ![Figure 3 - Prediction Product]()
 
