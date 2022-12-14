@@ -16,6 +16,7 @@
 The following figure helps us to better understand emigration in this area:
  
  ![Figure 1](spotlight/figures/migration.png)
+ ![Figure 1](spotlight/figures/mapLA.webp)
  
   This figure shows emigration from Latin America and the Caribbean, in millions of people, from 1990-2020. The figure shows that emigration from Latin America and the Caribbean has doubled since 1990 (Ortiz-Ospina et al).
 
