@@ -40,16 +40,17 @@ The following figure helps us to better understand emigration in this area:
 ## Data
 |Data Source:| [Our World In Data](https://ourworldindata.org/migration)|
 |------|-----|
-|Queried Data|[Link](data/Queried_Data/migration.csv)|
-|Processed Data|[Link](data/Processed_Data/Processed_Data.csv)|
+|Queried Data|[Link](data/Queried_Data/Queried_data.csv)|
+|Processed Data|[Link](https://github.com/Rising-Stars-by-Sunshine/Final-Project-Isabella/tree/main/data/Processed_Data)|
 
 
 ## Code
 |Code|Link|
 |---|---|
-|Query Data| The data was queried through .csv file manipulation in Excel|
-|Process Data|[Link](code/Copy_of_Isabella_Process_Data_Prepare_X_and_Y_for_Classification_and_Regressions.ipynb)|
-|Analyze Data|[Link](code/Copy_of_Isabella_Analyze_Data_Machine_Learning.ipynb)|
+|Query Data| [Link](code/Explanation/Explanation_Query_Data.ipynb)|
+|Process Data|[Link](code/Prediction/Prediction_Process_Data_Prepare_X_and_Y_for_Classification_and_Regressions.ipynb)|
+|Analyze Data for Explanation|[Link](code/Explanation/Explanation_Analyze_Data.ipynb)|
+|Analyze Data for Prediction|[Link]()|
 
 ## Spotlight
 ![Figure 1 - Research Poster](spotlight/figures/1.png)
