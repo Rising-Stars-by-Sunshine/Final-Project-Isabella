@@ -29,11 +29,11 @@ The following figure helps us to better understand emigration in this area:
 
 
 ## Table of Contents
-- data
-- code
-- spotlight
-- more about the author
-- references
+- [Data](https://github.com/Rising-Stars-by-Sunshine/Final-Project-Isabella#data)
+- [Code](https://github.com/Rising-Stars-by-Sunshine/Final-Project-Isabella#code)
+- [Spotlight](https://github.com/Rising-Stars-by-Sunshine/Final-Project-Isabella#spotlight)
+- [More about the Author](https://github.com/Rising-Stars-by-Sunshine/Final-Project-Isabella#more-about-the-author)
+- [References](https://github.com/Rising-Stars-by-Sunshine/Final-Project-Isabella#literature)
 
 
 
