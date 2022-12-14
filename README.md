@@ -38,6 +38,7 @@ The following figure helps us to better understand emigration in this area:
 
 
 ## Data
+
 |Data Source:| [Our World In Data](https://ourworldindata.org/migration)|
 |------|------|
 |Queried Data|[Link](data/Queried_Data/Queried_data.csv)|
@@ -45,6 +46,7 @@ The following figure helps us to better understand emigration in this area:
 
 
 ## Code
+
 |Code|Link|
 |---|---|
 |Query Data|[Link](code/Explanation/Explanation_Query_Data.ipynb)|
