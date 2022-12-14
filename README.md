@@ -52,9 +52,12 @@ The following figure helps us to better understand emigration in this area:
 |Analyze Data|[Link](code/Copy_of_Isabella_Analyze_Data_Machine_Learning.ipynb)|
 
 ## Spotlight
-![Research Proposal Poster](spotlight/figures/1.png)
-![Figure 1 - Explanation Product]()
-![Figure 2 - Prediction Product]()
+![Figure 1 - Research Poster](spotlight/figures/1.png)
+***Figure No. 1** Research Poster (created by [Canva](https://www.canva.com/design/DAFUBazg8TM/SSeNp4SkAErsq6SzPxraUg/view?utm_content=DAFUBazg8TM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink))
+
+Figure No.1 shows the six aspects of the research summary: Background & Motivation, Research Question, Application Scenario, Methodology, Results, and Intellectual Merits and Practical Impacts.
+![Figure 2 - Explanation Product]()
+![Figure 3 - Prediction Product]()
 
 ## More about the Author
 <img src="spotlight/figures/MyPhoto.jpg" width="400" />
